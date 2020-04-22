@@ -4,11 +4,11 @@
 
 
 1. Z wykorzystaniem maszyny wirtualnej, zainstaluj SO oraz wypisz parametry konfiguracji IP tj:
-   * Adres twojej
-   * Maska
-   * Adres bramy
-   * DNS 1
-   * DNS 2
+   * Adres 10.0.2.15
+   * Maska 255.255.255.0
+   * Adres bramy 10.0.2.2
+   * DNS 1 10.10.4.204 
+   * DNS 2 1.1.1.1  
     
     Powyższe parametry uzyskaj na wszystkich z wymienionych systemów
 
@@ -18,18 +18,21 @@
    * Windows 
 
 2. Sprawdź oraz przygotuj charakterystykę dla przykładowego urządzenia w Twojej sieci domowej
-   * Adres
-   * Maska
-   * Adres bramy
-   * DNS 1
-   * DNS 2
+   * Adres 192.168.1.13
+   * Maska 255.255.255.0
+   * Adres bramy 192.168.1.1
+   * DNS 1 192.168.10.100
+   * DNS 2 192.168.1.1
   
     Przygotuj dokumentację graficzną Twojej sieci domowej, uwzględnij adresy i urządzenia
 
 3. Zarejestruj konto w CISCO Academy celem pobrania Packet tracer 
    https://www.netacad.com/courses/packet-tracer
+   * done
 
 4. Dlaczego umiejętnosci z zakresu sieci komputerowych mogą mi się przydać? :)
+  * żeby wiedzieć jak skonfigurować sieć w domu/pracy
+  * żeby móc zrobić lan party w csie
 
 
 ### Charakterystyka systemu operacyjnego
